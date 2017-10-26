@@ -33,3 +33,5 @@ Program list for SMS laboratory
 	9)	Write a program to generate Poisson random variates.
 
 	10)	Write a program to generate exponential random variates.
+	
+Enjoy! :)
